@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "IEMA Egresso",
+    "slug": "portal-iema-egresso",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/iema-page-topo.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./src/assets/iema-page-topo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#204181"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/iema-page-topo.png",
+        "backgroundColor": "#000000"
+      }
+    }
+  }
+}
