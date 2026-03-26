@@ -2,9 +2,9 @@ import { View, Text, Image, TouchableOpacity } from "react-native";
 import Swiper from "react-native-swiper";
 import styles from "./Styles";
 
-import imagem1 from "../../assets/iema-1.jpeg";
-import imagem2 from "../../assets/iema-2.jpeg";
-import imagem3 from "../../assets/Iema-3.jpeg";
+import imagem1 from "../../assets/iema-bacana-1-1.jpg";
+import imagem2 from "../../assets/iema-bacana-2.jpeg";
+import imagem3 from "../../assets/iema-bacana-3.jpeg";
 
 const slides = [
   {

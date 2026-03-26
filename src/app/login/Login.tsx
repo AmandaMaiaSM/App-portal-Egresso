@@ -9,7 +9,7 @@ import {
   ScrollView
 } from "react-native";
 
-import logo from "../../assets/iema-page-topo.png";
+import logo from "../../assets/LOGOMARCAITB.png";
 import { styles } from "./Styles";
 
 export default function Login({ navigation }: any) {
